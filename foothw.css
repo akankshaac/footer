@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: end;
+    height: 100vh;
+   
+    
+}
+footer{
+    display: flex;
+    background-color: cyan;
+    padding: 40px 400px;
+    justify-content: space-between;
+    
+}
+#top{
+    width: 100%;  /*top side is occupying 60% */
+    display: flex;
+}
+ul{
+    list-style: none;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 2px;
+}
+li{
+    color: white;
+}
+h5{
+    color: crimson;
+    margin: 0;
+}
+
